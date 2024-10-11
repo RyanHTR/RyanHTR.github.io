@@ -20,11 +20,14 @@ redirect_from:
 I am currently an Associate Professor at School of Computer Science and Information Engineering, Hefei University of Technology. I received my Bachelor's degree from Sun Yat-sen University in 2018 and my PhD degree from Institute of Information Engineering, Chinese Academy of Sciences in 2024, supervised by [Prof. Jizhong Han](https://people.ucas.ac.cn/~hjz). I was also co-supervised by [Prof. Si Liu](https://scholar.google.com/citations?user=-QtVtNEAAAAJ) leading the [ColaLab](https://www.colalab.net/) at Beihang University from 2018 to 2024. I have published more than 20 papers in cutting-edge international conferences and journals, including TPAMI, TIP, CVPR, ECCV, ACM MM, etc. I have been awarded the Special Prize of President Scholarship for Postgraduate Students of Chinese Academy of Sciences in 2023 and the Best Paper Runner-Up of PRCV 2020. I have worked as a research intern at SenseTime and Meituan, and have been a reviewer for top conferences and journals. My research interest includes computer vision and multimedia analysis, focusing on multimodal visual perception.
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2024. 
+- *2024.10*: &nbsp;🎉🎉 One paper is accepted by TPAMI 2024.
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2024.
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by CVIU 2024.
 
 # 📝 Selected Publications
-[Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation](https://arxiv.org/pdf/2408.15876). Shaofei Huang, Rui Ling, Hongyu Li, **Tianrui Hui**, Zongheng Tang, Xiaoming Wei, Jizhong Han, Si Liu.
+[RGB-T Tracking with Template-Bridged Search Interaction and Target-Preserved Template Updating](https://ieeexplore.ieee.org/document/10706882). Bo Li, Fengguang Peng, Tianrui Hui, Xiaoming Wei, Xiaolin Wei, Lijun Zhang, Hang Shi, Si Liu. TPAMI 2024.
+
+[Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation](https://arxiv.org/pdf/2408.15876). Shaofei Huang, Rui Ling, Hongyu Li, **Tianrui Hui**, Zongheng Tang, Xiaoming Wei, Jizhong Han, Si Liu. arXiv 2024.
 
 [Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding](https://arxiv.org/pdf/2409.08251). Hongyu Li\*, **Tianrui Hui\***, Zihan Ding, Jing Zhang, Bin Ma, Xiaoming Wei, Jizhong Han, Si Liu. ACM MM 2024. (\* Equal Contribution)
 
