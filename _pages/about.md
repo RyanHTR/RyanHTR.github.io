@@ -25,7 +25,7 @@ I am currently an Associate Professor at School of Computer Science and Informat
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by CVIU 2024.
 
 # 📝 Selected Publications
-[RGB-T Tracking with Template-Bridged Search Interaction and Target-Preserved Template Updating](https://ieeexplore.ieee.org/document/10706882). Bo Li, Fengguang Peng, Tianrui Hui, Xiaoming Wei, Xiaolin Wei, Lijun Zhang, Hang Shi, Si Liu. TPAMI 2024.
+[RGB-T Tracking with Template-Bridged Search Interaction and Target-Preserved Template Updating](https://ieeexplore.ieee.org/document/10706882). Bo Li, Fengguang Peng, **Tianrui Hui**, Xiaoming Wei, Xiaolin Wei, Lijun Zhang, Hang Shi, Si Liu. TPAMI 2024.
 
 [Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation](https://arxiv.org/pdf/2408.15876). Shaofei Huang, Rui Ling, Hongyu Li, **Tianrui Hui**, Zongheng Tang, Xiaoming Wei, Jizhong Han, Si Liu. arXiv 2024.
 
