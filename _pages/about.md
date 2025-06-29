@@ -20,11 +20,16 @@ redirect_from:
 I am currently an Associate Professor at School of Computer Science and Information Engineering, Hefei University of Technology. I received my Bachelor's degree from Sun Yat-sen University in 2018 and my PhD degree from Institute of Information Engineering, Chinese Academy of Sciences in 2024, supervised by [Prof. Jizhong Han](https://people.ucas.ac.cn/~hjz). I was also co-supervised by [Prof. Si Liu](https://scholar.google.com/citations?user=-QtVtNEAAAAJ) leading the [ColaLab](https://www.colalab.net/) at Beihang University from 2018 to 2024. I have published more than 20 papers in cutting-edge international conferences and journals, including TPAMI, TIP, CVPR, ECCV, ACM MM, etc. I have been awarded the Special Prize of President Scholarship for Postgraduate Students of Chinese Academy of Sciences in 2023 and the Best Paper Runner-Up of PRCV 2020. I have worked as a research intern at SenseTime and Meituan, and have been a reviewer for top conferences and journals. My research interest includes computer vision and multimedia analysis, focusing on multimodal visual perception.
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 Two papers are accepted by CVPR 2025.
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025.
 - *2024.10*: &nbsp;🎉🎉 One paper is accepted by TPAMI 2024.
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by CVIU 2024.
 
 # 📝 Selected Publications
+[Revisiting Audio-Visual Segmentation with Vision-Centric Transformer](https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_Revisiting_Audio-Visual_Segmentation_with_Vision-Centric_Transformer_CVPR_2025_paper.pdf). Shaofei Huang, Rui Ling, **Tianrui Hui\#**, Hongyu Li, Xu Zhou, Shifeng Zhang, Si Liu\#, Richang Hong, Meng Wang. CVPR 2025. (\# Corresponding Author)
+
+[LLaVA-ST: A Multimodal Large Language Model for Fine-Grained Spatial-Temporal Understanding](https://arxiv.org/pdf/2501.08282). Hongyu Li, Jinyu Chen, Ziyu Wei, Shaofei Huang, **Tianrui Hui**, Jialin Gao, Xiaoming Wei, Si Liu. CVPR 2025.
+
 [Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation](https://arxiv.org/pdf/2408.15876). Shaofei Huang, Rui Ling, Hongyu Li, **Tianrui Hui\#**, Zongheng Tang, Xiaoming Wei, Jizhong Han, Si Liu\#. AAAI 2025. (\# Corresponding Author)
 
 [RGB-T Tracking with Template-Bridged Search Interaction and Target-Preserved Template Updating](https://ieeexplore.ieee.org/document/10706882). Bo Li, Fengguang Peng, **Tianrui Hui**, Xiaoming Wei, Xiaolin Wei, Lijun Zhang, Hang Shi, Si Liu. TPAMI 2024.
@@ -54,7 +59,7 @@ I am currently an Associate Professor at School of Computer Science and Informat
 [Cross-Modal Omni Interaction Modeling for Phrase Grounding](https://dl.acm.org/doi/10.1145/3394171.3413846). Tianyu Yu\*, **Tianrui Hui\***, Zhihao Yu, Yue Liao, Sansi Yu, Faxi Zhang, Si Liu. ACM MM 2020. (\* Equal Contribution)
 
 # 🎖 Honors and Awards
-- *2023.07* Special Prize of President Scholarship for Postgraduate Students of Chinese Academy of Sciences. (60 students in CAS that year)
+- *2023.07* Special Prize of President Scholarship for Postgraduate Students of Chinese Academy of Sciences. (80 awardees in CAS that year)
 - *2021.06* Outstanding Student of University of Chinese Academy of Sciences.
 - *2020.10* Best Paper Runner-Up of PRCV 2020.
 
